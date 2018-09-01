@@ -13,6 +13,8 @@ Desenvolvedor com habilidades extremamente evoluídas em todas as etapas do dese
 - Conhecimento sobre a configuração manual de um servidor. Instalação e configuração do sistema operacional, do servidor web, do PHP e de seus módulos e do servidor de banco de dados, configurações de rede e liberação no firewall;
 - Conhecimento sobre CGI, FastCGI e mod_php;
 - Conhecimento sobre escalabilidade;
+- Conhecimento nível médio sobre segurança;
+- Conhecimento avançado sobre desempenho;
 
 # Desejável
 
